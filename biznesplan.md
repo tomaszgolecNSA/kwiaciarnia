@@ -44,3 +44,31 @@ Scenariusze obejmują sprzedaż kwiatów ciętych i bukietów mieszkańcom cały
 6. **Stworzyć aplikację do komponowania bukietów online.** Umożliwić klientowi wybór dostępnych kwiatów, sprawdzenie ceny, złożenie zamówienia i wybór odbioru z kwiatomatu. Przed otwarciem przetestować cały proces od złożenia zamówienia po odbiór bukietu.
 7. **Uruchomić marketing na Ratajach.** Przed otwarciem pokazać mieszkańcom, jak zamówić własną kompozycję i odebrać ją o dowolnej porze. Wykorzystać profil firmy w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu.
 
+# 4. Założenia planu strategicznego przedsięwzięcia
+
+## 4.1. Analiza pięciu sił Portera
+
+## 4.2. Analiza SWOT
+
+## 4.3. Dobór strategii konkurencyjnej
+
+# 5. Plan techniczny
+
+## 5.1. Poziom zapasów wyrobów gotowych, materiałów i surowców
+
+- Źródła zaopatrzenia
+- Dostawcy materiałów i komponentów
+- Dostępność i ceny materiałów
+
+## 5.2. Zdolności produkcyjne i plan produkcji
+
+- Zdolności produkcyjne i stopień ich wykorzystania
+- Plan produkcji w poszczególnych latach
+
+## 5.3. Koszty produkcji
+
+- Koszty materiałów
+- Koszty energii
+- Koszty robocizny
+- Koszty utrzymania ruchu
+- Amortyzacja
