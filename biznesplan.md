@@ -1,6 +1,6 @@
 # 1. Cel przedsięwzięcia
 
-Celem przedsięwzięcia jest otwarcie innowacyjnej kwiaciarni na osiedlu Piastowskim. Klienci będą mogli samodzielnie skomponować i zamówić bukiet online, a następnie odebrać kwiaty z automatu ze skrytkami przy kwiaciarni. Automat będzie dostępny przez całą dobę, siedem dni w tygodniu.
+Celem przedsięwzięcia jest otwarcie innowacyjnej kwiaciarni stacjonarnej na osiedlu Piastowskim. W lokalu klienci będą mogli kupić kwiaty i skorzystać z pomocy florysty. Klienci będą też mogli samodzielnie skomponować i zamówić bukiet online. Kwiaciarnia przygotuje zamówienie na miejscu, a całodobowy kwiatomat przy lokalu umożliwi jego odbiór również poza godzinami otwarcia.
 
 W ciągu pierwszych 12 miesięcy od otwarcia celem jest osiągnięcie około **13,5% szacowanej wartości rynku kwiatów ciętych na Ratajach**. Zgodnie ze scenariuszem z punktu 2 oznacza to **199 980 zł sprzedaży brutto** i **1 818 zamówień** od około **909 klientów z Rataj**. Obliczenie zakłada średnio dwa zamówienia na klienta i średnią wartość zamówienia 110 zł. Liczba zamówień i wartość sprzedaży będą sprawdzane na podstawie ewidencji sprzedaży w lokalu i przez internet.
 
@@ -8,7 +8,7 @@ W ciągu pierwszych 12 miesięcy od otwarcia celem jest osiągnięcie około **1
 
 ## Segment docelowy
 
-Segment docelowy obejmuje mieszkańców całych Rataj w Poznaniu, którzy kupują kwiaty na urodziny, rocznice, święta i inne okazje. Osiedle Piastowskie i jego najbliższa okolica to główny obszar pozyskiwania klientów ze względu na bliskość kwiaciarni. Klienci z całych Rataj będą mogli samodzielnie skomponować i zamówić bukiet online, a następnie odebrać go ze skrytki na osiedlu Piastowskim o dowolnej porze, także poza godzinami otwarcia lokalu.
+Segment docelowy obejmuje mieszkańców całych Rataj w Poznaniu, którzy kupują kwiaty na urodziny, rocznice, święta i inne okazje. Osiedle Piastowskie i jego najbliższa okolica to główny obszar pozyskiwania klientów ze względu na bliskość kwiaciarni. Oferta dla mieszkańców Rataj obejmuje zakup z obsługą florystyczną w lokalu oraz samodzielne komponowanie i zamawianie bukietów online. Zamówienia przygotowane przez kwiaciarnię będzie można odebrać przez całą dobę z kwiatomatu przy lokalu na osiedlu Piastowskim.
 
 ## Liczebność segmentu
 
@@ -36,27 +36,27 @@ Scenariusze obejmują sprzedaż kwiatów ciętych i bukietów mieszkańcom cały
 
 # 3. Droga do sukcesu
 
-1. **Wynająć lokal na osiedlu Piastowskim.** Wybrać miejsce z wygodnym dojściem dla klientów i możliwością ustawienia kwiatomatu. Przed podpisaniem umowy uzgodnić z właścicielem miejsce montażu, zasilanie i całodobowy dostęp do urządzenia.
+1. **Wynająć lokal na osiedlu Piastowskim.** Wybrać lokal z wygodnym dojściem dla klientów i miejscem na kwiatomat bezpośrednio przy kwiaciarni. Przed podpisaniem umowy uzgodnić z właścicielem miejsce montażu, zasilanie i całodobowy dostęp do skrytek.
 2. **Założyć działalność gospodarczą.** Zarejestrować firmę i przygotować obsługę płatności, księgowości oraz ewidencji sprzedaży w lokalu i online.
 3. **Ukończyć szkolenie florystyczne.** Przećwiczyć komponowanie bukietów okolicznościowych, pielęgnację kwiatów ciętych i pakowanie kompozycji do odbioru ze skrytki.
 4. **Znaleźć dostawców kwiatów i materiałów florystycznych.** Porównać jakość, ceny, minimalne wielkości zamówień i częstotliwość dostaw. Wybrać dostawcę podstawowego i zapasowego na czas zwiększonego popytu.
-5. **Kupić i uruchomić kwiatomat.** Dobrać skrytki do rozmiarów oferowanych bukietów. Po montażu sprawdzić warunki przechowywania kwiatów oraz działanie odbioru poza godzinami otwarcia kwiaciarni.
-6. **Stworzyć aplikację do komponowania bukietów online.** Umożliwić klientowi wybór dostępnych kwiatów, sprawdzenie ceny, złożenie zamówienia i wybór odbioru z kwiatomatu. Przed otwarciem przetestować cały proces od złożenia zamówienia po odbiór bukietu.
-7. **Uruchomić marketing na Ratajach.** Przed otwarciem pokazać mieszkańcom, jak zamówić własną kompozycję i odebrać ją o dowolnej porze. Wykorzystać profil firmy w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu.
+5. **Kupić i uruchomić kwiatomat do odbioru zamówień.** Zamontować go przy kwiaciarni i dobrać skrytki do rozmiarów przygotowywanych bukietów. Sprawdzić warunki przechowywania kwiatów oraz odbiór zamówionego bukietu poza godzinami otwarcia lokalu.
+6. **Stworzyć aplikację do komponowania bukietów online.** Umożliwić klientowi wybór dostępnych kwiatów, sprawdzenie ceny, złożenie zamówienia i wybór odbioru z kwiatomatu przy kwiaciarni. Przed otwarciem przetestować złożenie zamówienia online, przygotowanie bukietu w lokalu i wydanie go ze skrytki.
+7. **Uruchomić marketing na Ratajach.** Przed otwarciem pokazać mieszkańcom, gdzie znajduje się kwiaciarnia, jak skomponować bukiet online i jak odebrać zamówienie z kwiatomatu przy lokalu. W komunikacji podać godziny pracy kwiaciarni oraz całodobową dostępność skrytek. Wykorzystać profil firmy w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu.
 
 # 4. Założenia planu strategicznego przedsięwzięcia
 
 ## 4.1. Analiza pięciu sił Portera
 
-Analiza obejmuje sprzedaż bukietów i kwiatów ciętych mieszkańcom poznańskich Rataj, w tym oferty sprzedawców z dostawą w tej części miasta. Oceny mają charakter jakościowy i opierają się na publicznie dostępnych ofertach z listopada 2026 r. [Model pięciu sił Portera – Harvard Business School](https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx)
+Analiza obejmuje sprzedaż bukietów i kwiatów ciętych mieszkańcom poznańskich Rataj, w tym oferty sprzedawców z dostawą w tej części miasta. Oceny mają charakter jakościowy i opierają się na przeglądzie publicznych ofert przeprowadzonym w listopadzie 2026 r. [Model pięciu sił Portera – Harvard Business School](https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx)
 
 ### 1. Rywalizacja między istniejącymi konkurentami – wysoka
 
-Balloons & Flowers Bar przy ul. Pleszewskiej 1 w Posnanii przyjmuje zamówienia online i oferuje odbiór w punkcie oraz dostawę w Poznaniu. Kwiaciarnia z Duszą wskazuje całodobowy kwiatomat na os. Jagiellońskim 121B. W okresach świątecznych o te same zakupy konkurują też dyskonty, które sprzedają kwiaty cięte i gotowe bukiety. Planowana kwiaciarnia będzie konkurować przede wszystkim wygodą złożenia zamówienia, jakością kompozycji i dogodnym terminem odbioru. [Balloons & Flowers Bar – oferta](https://bfb.com.pl/) · [Kwiaciarnia z Duszą – lokalizacje](https://kwiaciarniazdusza.com/kontakt/) · [Biedronka – oferta na Dzień Kobiet 2026](https://media.biedronka.pl/449183-biedronka-rozpieszcza-kobiety)
+Balloons & Flowers Bar przy ul. Pleszewskiej 1 w Posnanii przyjmuje zamówienia online i oferuje odbiór w punkcie oraz dostawę w Poznaniu. Kwiaciarnia z Duszą wskazuje os. Jagiellońskie 121B jako lokalizację samodzielnego kwiatomatu 24/7. Jej stacjonarne punkty odbioru podano pod innymi adresami. Na osiedlu Jagiellońskim automat stanowi alternatywę dla klientów szukających gotowego bukietu o dowolnej porze. W okresach świątecznych o część tych zakupów konkurują też dyskonty sprzedające kwiaty cięte i gotowe bukiety. Planowana kwiaciarnia na osiedlu Piastowskim połączy obsługę florystyczną w lokalu z możliwością samodzielnego skomponowania bukietu online i całodobowego odbioru zamówienia ze skrytki przy tym samym lokalu. [Balloons & Flowers Bar – oferta](https://bfb.com.pl/) · [Kwiaciarnia z Duszą – lokalizacje](https://kwiaciarniazdusza.com/kontakt/) · [Biedronka – oferta na Dzień Kobiet 2026](https://media.biedronka.pl/449183-biedronka-rozpieszcza-kobiety)
 
 ### 2. Zagrożenie wejściem nowych konkurentów – umiarkowane
 
-Nowa pracownia może zacząć od sprzedaży internetowej i dostaw bez lokalu otwartego dla klientów. Uruchomienie modelu łączącego lokal, aplikację i całodobowy odbiór wymaga dodatkowych nakładów na sprzęt, miejsce montażu i obsługę zamówień. Dostępność gotowych kwiatomatów z odbiorem rezerwacji na kod ułatwia wdrożenie podobnego kanału zarówno nowym, jak i działającym już kwiaciarniom. [Bouquetmat – funkcje kwiatomatów](https://www.bouquetmat.eu/faq/)
+Nowa pracownia może zacząć od sprzedaży internetowej i dostaw bez lokalu otwartego dla klientów. Uruchomienie kwiaciarni stacjonarnej z aplikacją i całodobowym punktem odbioru przy lokalu wymaga nakładów na lokal, sprzęt oraz połączenie obsługi zamówień online z wydawaniem bukietów ze skrytek. Dostępność gotowych kwiatomatów z odbiorem rezerwacji na kod ułatwia wdrożenie podobnego kanału zarówno nowym, jak i działającym już kwiaciarniom. [Bouquetmat – funkcje kwiatomatów](https://www.bouquetmat.eu/faq/)
 
 ### 3. Siła przetargowa dostawców – umiarkowana
 
@@ -64,13 +64,13 @@ Wielkopolska Gildia Rolno-Ogrodnicza na Franowie skupia wielu sprzedawców kwiat
 
 ### 4. Siła przetargowa nabywców – wysoka
 
-Klienci indywidualni mają do wyboru zakup w lokalu, dostawę pod wskazany adres i zakup z automatu. Mogą szybko porównać ceny i terminy realizacji w internecie oraz wybrać innego sprzedawcę bez dodatkowych zobowiązań. Dla planowanej kwiaciarni oznacza to potrzebę pokazania pełnej ceny, dostępności wybranych kwiatów i najbliższego terminu odbioru przed złożeniem zamówienia. [Balloons & Flowers Bar – zasady zamówień](https://bfb.com.pl/faq/) · [Tulipan Panią – dostawy na Rataje](https://tulipanpania.pl/kwiaciarnia-internetowa-poznan)
+Klienci indywidualni mają do wyboru zakup w kwiaciarni, dostawę pod wskazany adres i zakup gotowego bukietu z samodzielnego automatu. Mogą szybko porównać ceny i terminy realizacji w internecie oraz wybrać innego sprzedawcę bez dodatkowych zobowiązań. Dla planowanej kwiaciarni oznacza to potrzebę pokazania pełnej ceny, dostępności wybranych kwiatów i najbliższego terminu odbioru przed złożeniem zamówienia. [Balloons & Flowers Bar – zasady zamówień](https://bfb.com.pl/faq/) · [Tulipan Panią – dostawy na Rataje](https://tulipanpania.pl/kwiaciarnia-internetowa-poznan)
 
 ### 5. Zagrożenie ze strony substytutów – umiarkowane
 
 Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo kartą podarunkową. Presja substytutów jest silniejsza przy zakupie drobnego upominku na ostatnią chwilę. Jest słabsza, gdy klient potrzebuje konkretnej kompozycji kwiatowej na uroczystość. [Biedronka – przykłady alternatywnych prezentów na Dzień Mamy](https://media.biedronka.pl/404472-dzien-mamy-pelna-wdziecznosci-wyjatkowe-prezenty-w-biedronce)
 
-**Wniosek dla kwiaciarni.** Największą presję wywierają działający sprzedawcy i łatwość zmiany sprzedawcy przez klientów. Elementem oferty do sprawdzenia będzie połączenie samodzielnego doboru dostępnych kwiatów online z całodobowym odbiorem gotowego zamówienia na osiedlu Piastowskim. Po otwarciu warto mierzyć, ile zamówień klienci składają w konfiguratorze i jak często wybierają odbiór ze skrytki.
+**Wniosek dla kwiaciarni.** Największą presję wywierają działający sprzedawcy i łatwość zmiany sprzedawcy przez klientów. Potencjalnym wyróżnikiem na osiedlu Piastowskim jest obsługa florystyczna na miejscu oraz możliwość samodzielnego doboru kwiatów online z całodobowym odbiorem przygotowanego bukietu przy tej samej kwiaciarni. Po otwarciu warto mierzyć, ile zamówień klienci składają w konfiguratorze i jak często wybierają odbiór ze skrytki.
 
 ## 4.2. Analiza SWOT
 
@@ -80,6 +80,7 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
 
 ## 5.1. Poziom zapasów wyrobów gotowych, materiałów i surowców
 
+- **Wyroby gotowe** – bukiety dostępne od ręki w lokalu oraz zamówienia przygotowane przez kwiaciarnię, oczekujące na odbiór w lokalu lub ze skrytki przy kwiaciarni.
 - Źródła zaopatrzenia
 - Dostawcy materiałów i komponentów
 - Dostępność i ceny materiałów
