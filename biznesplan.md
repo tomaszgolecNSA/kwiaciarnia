@@ -48,6 +48,30 @@ Scenariusze obejmują sprzedaż kwiatów ciętych i bukietów mieszkańcom cały
 
 ## 4.1. Analiza pięciu sił Portera
 
+Analiza obejmuje sprzedaż bukietów i kwiatów ciętych mieszkańcom poznańskich Rataj, w tym oferty sprzedawców z dostawą w tej części miasta. Oceny mają charakter jakościowy i opierają się na publicznie dostępnych ofertach z listopada 2026 r. [Model pięciu sił Portera – Harvard Business School](https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx)
+
+### 1. Rywalizacja między istniejącymi konkurentami – wysoka
+
+Balloons & Flowers Bar przy ul. Pleszewskiej 1 w Posnanii przyjmuje zamówienia online i oferuje odbiór w punkcie oraz dostawę w Poznaniu. Kwiaciarnia z Duszą wskazuje całodobowy kwiatomat na os. Jagiellońskim 121B. W okresach świątecznych o te same zakupy konkurują też dyskonty, które sprzedają kwiaty cięte i gotowe bukiety. Planowana kwiaciarnia będzie konkurować przede wszystkim wygodą złożenia zamówienia, jakością kompozycji i dogodnym terminem odbioru. [Balloons & Flowers Bar – oferta](https://bfb.com.pl/) · [Kwiaciarnia z Duszą – lokalizacje](https://kwiaciarniazdusza.com/kontakt/) · [Biedronka – oferta na Dzień Kobiet 2026](https://media.biedronka.pl/449183-biedronka-rozpieszcza-kobiety)
+
+### 2. Zagrożenie wejściem nowych konkurentów – umiarkowane
+
+Nowa pracownia może zacząć od sprzedaży internetowej i dostaw bez lokalu otwartego dla klientów. Uruchomienie modelu łączącego lokal, aplikację i całodobowy odbiór wymaga dodatkowych nakładów na sprzęt, miejsce montażu i obsługę zamówień. Dostępność gotowych kwiatomatów z odbiorem rezerwacji na kod ułatwia wdrożenie podobnego kanału zarówno nowym, jak i działającym już kwiaciarniom. [Bouquetmat – funkcje kwiatomatów](https://www.bouquetmat.eu/faq/)
+
+### 3. Siła przetargowa dostawców – umiarkowana
+
+Wielkopolska Gildia Rolno-Ogrodnicza na Franowie skupia wielu sprzedawców kwiatów i materiałów florystycznych. Kwiaciarnia może porównywać ceny i jakość u różnych dostawców. Ich wpływ rośnie przy zamówieniach na konkretny gatunek lub kolor z krótkim terminem realizacji, szczególnie w okresach zwiększonego popytu. Dostawca kwiatomatu może mieć większy wpływ po montażu, jeśli naprawy i obsługa skrytek zależą od jego serwisu lub oprogramowania. [WGRO – rynek hurtowy we Franowie](https://wgro.com.pl/o-nas/)
+
+### 4. Siła przetargowa nabywców – wysoka
+
+Klienci indywidualni mają do wyboru zakup w lokalu, dostawę pod wskazany adres i zakup z automatu. Mogą szybko porównać ceny i terminy realizacji w internecie oraz wybrać innego sprzedawcę bez dodatkowych zobowiązań. Dla planowanej kwiaciarni oznacza to potrzebę pokazania pełnej ceny, dostępności wybranych kwiatów i najbliższego terminu odbioru przed złożeniem zamówienia. [Balloons & Flowers Bar – zasady zamówień](https://bfb.com.pl/faq/) · [Tulipan Panią – dostawy na Rataje](https://tulipanpania.pl/kwiaciarnia-internetowa-poznan)
+
+### 5. Zagrożenie ze strony substytutów – umiarkowane
+
+Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo kartą podarunkową. Presja substytutów jest silniejsza przy zakupie drobnego upominku na ostatnią chwilę. Jest słabsza, gdy klient potrzebuje konkretnej kompozycji kwiatowej na uroczystość. [Biedronka – przykłady alternatywnych prezentów na Dzień Mamy](https://media.biedronka.pl/404472-dzien-mamy-pelna-wdziecznosci-wyjatkowe-prezenty-w-biedronce)
+
+**Wniosek dla kwiaciarni.** Największą presję wywierają działający sprzedawcy i łatwość zmiany sprzedawcy przez klientów. Elementem oferty do sprawdzenia będzie połączenie samodzielnego doboru dostępnych kwiatów online z całodobowym odbiorem gotowego zamówienia na osiedlu Piastowskim. Po otwarciu warto mierzyć, ile zamówień klienci składają w konfiguratorze i jak często wybierają odbiór ze skrytki.
+
 ## 4.2. Analiza SWOT
 
 ## 4.3. Dobór strategii konkurencyjnej
