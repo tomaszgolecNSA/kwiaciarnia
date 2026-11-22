@@ -147,6 +147,20 @@ Analiza dotyczy planowanej kwiaciarni na osiedlu Piastowskim i sprzedaży bukiet
 
 ## 4.3. Dobór strategii konkurencyjnej
 
+**Wybrana strategia to koncentracja na zróżnicowaniu.** Kwiaciarnia skieruje ofertę do mieszkańców Rataj, zaczynając od osiedla Piastowskiego i jego najbliższej okolicy. Główną grupą klientów będą osoby kupujące bukiety okolicznościowe, którym zależy na dopasowaniu kompozycji i odbiorze o dogodnej porze. [Michael Porter o strategiach konkurencyjnych](https://www.hbs.edu/ris/Publication%20Files/Value-Investor-Insight-12-13-Michael-Porter-interview_c606ce75-e56f-4ca1-9a20-13a1e8f29c20.pdf#page=2)
+
+Analiza pięciu sił Portera pokazała silną konkurencję i łatwość zmiany sprzedawcy. Kwiaciarnia będzie się wyróżniać możliwością skomponowania bukietu w lokalu lub w aplikacji, uzyskania porady florystki przez wideo w godzinach pracy i odebrania zamówienia przez całą dobę z kwiatomatu przy lokalu. Ponieważ konkurenci mogą wdrożyć podobne skrytki, o wartości oferty dla klienta zadecydują także aktualna dostępność kwiatów i dotrzymywanie terminów odbioru.
+
+### Realizacja strategii
+
+- **Zamówienie i cena.** Przed złożeniem zamówienia aplikacja pokaże dostępne kwiaty, pełną cenę kompozycji i najbliższy termin odbioru. W scenariuszu sprzedaży przyjęto średnią wartość zamówienia 110 zł brutto. Cena konkretnego bukietu będzie zależeć od wybranych kwiatów i wielkości kompozycji.
+- **Terminowy odbiór.** Kwiaciarnia będzie ustalać, od której godziny zamówienie będzie gotowe do odbioru, uwzględniając czas potrzebny na przygotowanie bukietu i dostępność skrytek.
+- **Dotarcie do mieszkańców Rataj.** Profil w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu pokażą, jak zamówić bukiet na wybraną okazję i odebrać go po zamknięciu kwiaciarni.
+
+### Ocena skuteczności
+
+W pierwszym roku postęp będzie oceniany względem celu **1 818 zamówień od mieszkańców Rataj i 199 980 zł sprzedaży brutto**. Kwiaciarnia będzie też mierzyć odsetek konsultacji wideo zakończonych zakupem, udział zamówień odbieranych po zamknięciu lokalu oraz odsetek bukietów gotowych w obiecanym terminie. Wyniki sprzedaży i koszty obsługi zamówień posłużą do oceny, czy oferta zapewnia marżę wystarczającą do pokrycia kosztów utrzymania aplikacji i kwiatomatu.
+
 # 5. Plan techniczny
 
 ## 5.1. Poziom zapasów wyrobów gotowych, materiałów i surowców
