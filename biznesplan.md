@@ -98,3 +98,10 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
 - Koszty robocizny
 - Koszty utrzymania ruchu
 - Amortyzacja
+
+# 5. Plan marketingowy 
+-Analiza rynka (czesc tu jest z analicy strategicznej wco wczesniej bylo)
+-ceny wyrobow ()
+- kanaly dsytrybucji 
+- promocja i reklama
+- kosrzy dzialan marketingowych 
