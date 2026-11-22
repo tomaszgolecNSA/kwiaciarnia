@@ -74,6 +74,77 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
 
 ## 4.2. Analiza SWOT
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>S · Mocne strony</strong>
+      <ul>
+        <li>Personalizacja bukietów i konsultacje wideo</li>
+        <li>Całodobowy odbiór zamówień</li>
+        <li>Lokal na osiedlu Piastowskim</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>W · Słabe strony</strong>
+      <ul>
+        <li>Koszty lokalu, aplikacji i kwiatomatu</li>
+        <li>Ograniczony czas florystki</li>
+        <li>Trudność zarządzania zapasem kwiatów</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>O · Szanse</strong>
+      <ul>
+        <li>Okazje do zakupu kwiatów przez cały rok</li>
+        <li>Potrzeba odbioru po godzinach</li>
+        <li>Wielu dostawców na Franowie</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>T · Zagrożenia</strong>
+      <ul>
+        <li>Konkurencja lokalna i internetowa</li>
+        <li>Sezonowe wahania cen i dostępności kwiatów</li>
+        <li>Ryzyko opóźnień w serwisie kwiatomatu</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### Szczegółowa analiza
+
+Analiza dotyczy planowanej kwiaciarni na osiedlu Piastowskim i sprzedaży bukietów oraz kwiatów ciętych mieszkańcom Rataj. Mocne i słabe strony wynikają z przyjętego modelu działalności, a szanse i zagrożenia z warunków lokalnego rynku.
+
+#### Mocne strony
+
+- **Personalizacja bukietu w lokalu i online.** Klient może skorzystać z pomocy florystki w lokalu albo samodzielnie skomponować bukiet w aplikacji. W godzinach pracy kwiaciarni może też obejrzeć dostępne kwiaty podczas konsultacji wideo i poprosić florystkę o poradę.
+- **Całodobowy odbiór zamówień przy kwiaciarni.** Klient może odebrać przygotowany dla niego bukiet ze skrytki również po zamknięciu lokalu.
+- **Lokal na osiedlu Piastowskim.** Bliskość punktu sprzedaży i odbioru ułatwia zakupy mieszkańcom osiedla oraz pozwala obejrzeć ofertę na miejscu.
+
+#### Słabe strony
+
+- **Nakłady na uruchomienie i koszty utrzymania.** Lokal, aplikacja i kwiatomat wymagają finansowania jeszcze przed sprawdzeniem, z których sposobów zakupu i odbioru klienci będą korzystać.
+- **Wspólna obsługa lokalu i zamówień online.** Florystka dzieli czas między klientów w lokalu, konsultacje wideo i przygotowanie bukietów. Wzrost liczby zamówień może wydłużyć czas realizacji.
+- **Trudność w utrzymaniu aktualnej oferty.** Kwiaciarnia musi aktualizować dostępność kwiatów w aplikacji po sprzedaży w lokalu i wycofaniu kwiatów, które utraciły świeżość. Nadmierny zapas zwiększa straty.
+- **Niezweryfikowane założenia sprzedaży.** Cel pierwszego roku zakłada około 909 klientów z Rataj, dwa zamówienia rocznie od każdego i średni koszyk 110 zł. Są to założenia wymagające sprawdzenia po otwarciu.
+
+#### Szanse
+
+- **Zakupy okazjonalne przez cały rok.** Urodziny, rocznice i święta dają okazje do ponownych zamówień i składania ich z wyprzedzeniem.
+- **Zakupy poza godzinami pracy kwiaciarni.** Klienci, którzy chcą odebrać bukiet przed pracą lub wieczorem, mogą szukać całodobowego punktu odbioru.
+- **Dostęp do wielu dostawców na Franowie.** Rynek hurtowy pozwala porównywać ceny i jakość oraz korzystać z zapasowego źródła dostaw w okresach większego popytu.
+
+#### Zagrożenia
+
+- **Konkurencja lokalna i internetowa.** Mieszkańcy Rataj mogą zamawiać kwiaty z dostawą lub kupić gotowy bukiet w kwiatomacie na osiedlu Jagiellońskim. W okresach świątecznych kwiaty oferują również dyskonty. Gotowe rozwiązania do odbioru zamówień na kod ułatwiają innym kwiaciarniom uruchomienie podobnej usługi.
+- **Łatwość zmiany sprzedawcy.** Klienci mogą szybko porównać ceny i terminy. Mogą też wybrać inny upominek, zwłaszcza przy zakupie na ostatnią chwilę.
+- **Ryzyko wzrostu cen i ograniczonej dostępności kwiatów.** W okresach zwiększonego popytu trudniej zapewnić konkretną odmianę lub kolor w cenie przyjętej przy zamówieniu.
+- **Ryzyko opóźnień w serwisie kwiatomatu.** Jeśli naprawa skrytki lub systemu kodów zależy od zewnętrznego dostawcy, czas jego reakcji może decydować o tym, czy klient odbierze bukiet na czas.
+
+**Wniosek dla kwiaciarni.** Połączenie personalizacji bukietu z całodobowym odbiorem przy lokalu daje kwiaciarni możliwość wyróżnienia się. W pierwszych miesiącach warto sprawdzić, ilu klientów odbiera bukiety po zamknięciu lokalu i jak często konsultacje wideo prowadzą do zakupu. Zestawienie tych wyników z czasem obsługi i kosztami utrzymania aplikacji oraz kwiatomatu pomoże ocenić, czy sprzedaż uzasadnia nakłady na obie usługi.
+
 ## 4.3. Dobór strategii konkurencyjnej
 
 # 5. Plan techniczny
