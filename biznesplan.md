@@ -1,6 +1,6 @@
 # 1. Cel przedsięwzięcia
 
-Celem przedsięwzięcia jest otwarcie innowacyjnej kwiaciarni stacjonarnej na osiedlu Piastowskim. W lokalu klienci będą mogli kupić kwiaty i skorzystać z pomocy florysty. W aplikacji klienci będą mogli samodzielnie skomponować i zamówić bukiet. W godzinach pracy kwiaciarni będą mogli też połączyć się przez wideo z florystką, która pokaże im na żywo dostępne kwiaty i doradzi, co wybrać do bukietu. Kwiaciarnia przygotuje zamówienie na miejscu, a całodobowy kwiatomat przy lokalu umożliwi jego odbiór również poza godzinami otwarcia.
+Celem przedsięwzięcia jest otwarcie innowacyjnej kwiaciarni stacjonarnej na osiedlu Piastowskim. W lokalu klienci będą mogli kupić kwiaty i skorzystać z pomocy florysty. W aplikacji klienci będą mogli samodzielnie skomponować i zamówić bukiet. W godzinach pracy kwiaciarni będą mogli też połączyć się przez wideo z florystką, która pokaże im na żywo dostępne kwiaty i doradzi, co wybrać do bukietu. Kwiaciarnia przygotuje zamówienia na miejscu, a dwa mniejsze kwiatomaty przy lokalu umożliwią ich całodobowy odbiór. Przy awarii jednego urządzenia drugie będzie mogło przejąć zamówienia w granicach dostępnych skrytek.
 
 W ciągu pierwszych 12 miesięcy od otwarcia celem jest osiągnięcie około **13,5% szacowanej wartości rynku kwiatów ciętych na Ratajach**. Zgodnie ze scenariuszem z punktu 2 oznacza to **199 980 zł sprzedaży brutto** i **1 818 zamówień** od około **909 klientów z Rataj**. Obliczenie zakłada średnio dwa zamówienia na klienta i średnią wartość zamówienia 110 zł. Liczba zamówień i wartość sprzedaży będą sprawdzane na podstawie ewidencji sprzedaży w lokalu i przez internet.
 
@@ -8,7 +8,7 @@ W ciągu pierwszych 12 miesięcy od otwarcia celem jest osiągnięcie około **1
 
 ## Segment docelowy
 
-Segment docelowy obejmuje mieszkańców całych Rataj w Poznaniu, którzy kupują kwiaty na urodziny, rocznice, święta i inne okazje. Osiedle Piastowskie i jego najbliższa okolica to główny obszar pozyskiwania klientów ze względu na bliskość kwiaciarni. Mieszkańcy Rataj będą mogli kupić bukiet z pomocą florystki w lokalu lub skomponować go i zamówić w aplikacji. Osoby kupujące online, które chcą obejrzeć kwiaty przed podjęciem decyzji, będą mogły skorzystać z konsultacji wideo z florystką w godzinach pracy kwiaciarni. Zamówienia przygotowane przez kwiaciarnię będzie można odebrać przez całą dobę z kwiatomatu przy lokalu na osiedlu Piastowskim.
+Segment docelowy obejmuje mieszkańców całych Rataj w Poznaniu, którzy kupują kwiaty na urodziny, rocznice, święta i inne okazje. Osiedle Piastowskie i jego najbliższa okolica to główny obszar pozyskiwania klientów ze względu na bliskość kwiaciarni. Mieszkańcy Rataj będą mogli kupić bukiet z pomocą florystki w lokalu lub skomponować go i zamówić w aplikacji. Osoby kupujące online, które chcą obejrzeć kwiaty przed podjęciem decyzji, będą mogły skorzystać z konsultacji wideo z florystką w godzinach pracy kwiaciarni. Zamówiony bukiet będzie można odebrać przez całą dobę z przypisanego kwiatomatu. Oba urządzenia będą przy lokalu na osiedlu Piastowskim.
 
 ## Liczebność segmentu
 
@@ -36,13 +36,13 @@ Scenariusze obejmują sprzedaż kwiatów ciętych i bukietów mieszkańcom cały
 
 # 3. Droga do sukcesu
 
-1. **Wynająć lokal na osiedlu Piastowskim.** Wybrać lokal z wygodnym dojściem dla klientów i miejscem na kwiatomat bezpośrednio przy kwiaciarni. Przed podpisaniem umowy uzgodnić z właścicielem miejsce montażu, zasilanie i całodobowy dostęp do skrytek.
+1. **Wynająć lokal na osiedlu Piastowskim.** Wybrać lokal z wygodnym dojściem dla klientów i miejscem na dwa mniejsze kwiatomaty bezpośrednio przy kwiaciarni. Przed podpisaniem umowy uzgodnić z właścicielem miejsce montażu, zasilanie obu urządzeń i całodobowy dostęp do skrytek.
 2. **Założyć działalność gospodarczą.** Zarejestrować firmę i przygotować obsługę płatności, księgowości oraz ewidencji sprzedaży w lokalu i online.
 3. **Ukończyć szkolenie florystyczne.** Przećwiczyć komponowanie bukietów okolicznościowych, pielęgnację kwiatów ciętych i pakowanie kompozycji do odbioru ze skrytki.
 4. **Znaleźć dostawców kwiatów i materiałów florystycznych.** Porównać jakość, ceny, minimalne wielkości zamówień i częstotliwość dostaw. Wybrać dostawcę podstawowego i zapasowego na czas zwiększonego popytu.
-5. **Kupić i uruchomić kwiatomat do odbioru zamówień.** Zamontować go przy kwiaciarni i dobrać skrytki do rozmiarów przygotowywanych bukietów. Sprawdzić warunki przechowywania kwiatów oraz odbiór zamówionego bukietu poza godzinami otwarcia lokalu.
-6. **Stworzyć aplikację do komponowania bukietów i konsultacji wideo.** Umożliwić klientowi wybór dostępnych kwiatów, sprawdzenie ceny, złożenie zamówienia i wybór odbioru z kwiatomatu przy kwiaciarni. W godzinach pracy lokalu udostępnić połączenie wideo z florystką, podczas którego klient zobaczy konkretne dostępne kwiaty i otrzyma pomoc w ich doborze. Przed otwarciem przetestować połączenie wideo, złożenie zamówienia, przygotowanie bukietu w lokalu i wydanie go ze skrytki.
-7. **Uruchomić marketing na Ratajach.** Przed otwarciem pokazać mieszkańcom, gdzie znajduje się kwiaciarnia, jak skomponować bukiet online, skorzystać z konsultacji wideo i odebrać zamówienie z kwiatomatu przy lokalu. Podać godziny pracy kwiaciarni i konsultacji wideo oraz informację o całodobowym odbiorze ze skrytek. Wykorzystać profil firmy w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu.
+5. **Kupić i uruchomić dwa mniejsze kwiatomaty.** Wybrać urządzenia z niezależnym sterowaniem skrytkami. Dobrać rozmiary skrytek do przygotowywanych bukietów i oznaczyć urządzenia jako A i B. Sprawdzić warunki przechowywania i całodobowy odbiór w obu urządzeniach oraz przetestować obsługę zamówień po wyłączeniu jednego z nich.
+6. **Stworzyć aplikację do komponowania bukietów i konsultacji wideo.** Umożliwić klientowi wybór dostępnych kwiatów, sprawdzenie ceny, złożenie zamówienia i wybór odbioru ze skrytki przy kwiaciarni. W wiadomości o gotowości do odbioru podać oznaczenie kwiatomatu, numer skrytki i kod. W godzinach pracy lokalu udostępnić połączenie wideo z florystką, podczas którego klient zobaczy konkretne dostępne kwiaty i otrzyma pomoc w ich doborze. Przed otwarciem przetestować połączenie wideo i całą ścieżkę od złożenia zamówienia po odbiór, w tym zmianę przydziału skrytki w razie awarii.
+7. **Uruchomić marketing na Ratajach.** Przed otwarciem pokazać mieszkańcom, gdzie znajduje się kwiaciarnia, jak skomponować bukiet online i skorzystać z konsultacji wideo. Podać godziny pracy kwiaciarni i konsultacji oraz wyjaśnić, jak rozpoznać przypisany kwiatomat i odebrać zamówienie o dowolnej porze. Wykorzystać profil firmy w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu.
 
 # 4. Założenia planu strategicznego przedsięwzięcia
 
@@ -52,15 +52,15 @@ Analiza obejmuje sprzedaż bukietów i kwiatów ciętych mieszkańcom poznański
 
 ### 1. Rywalizacja między istniejącymi konkurentami – wysoka
 
-Balloons & Flowers Bar przy ul. Pleszewskiej 1 w Posnanii przyjmuje zamówienia online i oferuje odbiór w punkcie oraz dostawę w Poznaniu. Kwiaciarnia z Duszą wskazuje os. Jagiellońskie 121B jako lokalizację samodzielnego kwiatomatu 24/7. Jej stacjonarne punkty odbioru podano pod innymi adresami. Na osiedlu Jagiellońskim automat stanowi alternatywę dla klientów szukających gotowego bukietu o dowolnej porze. W okresach świątecznych o część tych zakupów konkurują też dyskonty sprzedające kwiaty cięte i gotowe bukiety. Planowana kwiaciarnia na osiedlu Piastowskim połączy obsługę florystyczną w lokalu z samodzielnym komponowaniem bukietów online, konsultacją wideo z florystką w godzinach pracy i całodobowym odbiorem zamówienia ze skrytki przy tym samym lokalu. [Balloons & Flowers Bar – oferta](https://bfb.com.pl/) · [Kwiaciarnia z Duszą – lokalizacje](https://kwiaciarniazdusza.com/kontakt/) · [Biedronka – oferta na Dzień Kobiet 2026](https://media.biedronka.pl/449183-biedronka-rozpieszcza-kobiety)
+Balloons & Flowers Bar przy ul. Pleszewskiej 1 w Posnanii przyjmuje zamówienia online i oferuje odbiór w punkcie oraz dostawę w Poznaniu. Kwiaciarnia z Duszą wskazuje os. Jagiellońskie 121B jako lokalizację samodzielnego kwiatomatu 24/7. Jej stacjonarne punkty odbioru podano pod innymi adresami. Na osiedlu Jagiellońskim automat stanowi alternatywę dla klientów szukających gotowego bukietu o dowolnej porze. W okresach świątecznych o część tych zakupów konkurują też dyskonty sprzedające kwiaty cięte i gotowe bukiety. Planowana kwiaciarnia na osiedlu Piastowskim połączy obsługę florystyczną w lokalu z samodzielnym komponowaniem bukietów online, konsultacją wideo z florystką w godzinach pracy i całodobowym odbiorem zamówień z dwóch mniejszych kwiatomatów przy tym samym lokalu. [Balloons & Flowers Bar – oferta](https://bfb.com.pl/) · [Kwiaciarnia z Duszą – lokalizacje](https://kwiaciarniazdusza.com/kontakt/) · [Biedronka – oferta na Dzień Kobiet 2026](https://media.biedronka.pl/449183-biedronka-rozpieszcza-kobiety)
 
 ### 2. Zagrożenie wejściem nowych konkurentów – umiarkowane
 
-Nowa pracownia może zacząć od sprzedaży internetowej i dostaw bez lokalu otwartego dla klientów. Uruchomienie kwiaciarni stacjonarnej z aplikacją i całodobowym punktem odbioru przy lokalu wymaga nakładów na lokal, sprzęt oraz połączenie obsługi zamówień online z wydawaniem bukietów ze skrytek. Dostępność gotowych kwiatomatów z odbiorem rezerwacji na kod ułatwia wdrożenie podobnego kanału zarówno nowym, jak i działającym już kwiaciarniom. [Bouquetmat – funkcje kwiatomatów](https://www.bouquetmat.eu/faq/)
+Nowa pracownia może zacząć od sprzedaży internetowej i dostaw bez lokalu otwartego dla klientów. Uruchomienie kwiaciarni stacjonarnej z aplikacją i całodobowym punktem odbioru wymaga nakładów na lokal, urządzenia oraz połączenie obsługi zamówień online z wydawaniem bukietów ze skrytek. W planowanym wariancie aplikacja będzie obsługiwać skrytki dwóch urządzeń. Dostępność gotowych kwiatomatów z odbiorem rezerwacji na kod ułatwia wdrożenie podobnego kanału zarówno nowym, jak i działającym już kwiaciarniom. [Bouquetmat – funkcje kwiatomatów](https://www.bouquetmat.eu/faq/)
 
 ### 3. Siła przetargowa dostawców – umiarkowana
 
-Wielkopolska Gildia Rolno-Ogrodnicza na Franowie skupia wielu sprzedawców kwiatów i materiałów florystycznych. Kwiaciarnia może porównywać ceny i jakość u różnych dostawców. Ich wpływ rośnie przy zamówieniach na konkretny gatunek lub kolor z krótkim terminem realizacji, szczególnie w okresach zwiększonego popytu. Dostawca kwiatomatu może mieć większy wpływ po montażu, jeśli naprawy i obsługa skrytek zależą od jego serwisu lub oprogramowania. [WGRO – rynek hurtowy we Franowie](https://wgro.com.pl/o-nas/)
+Wielkopolska Gildia Rolno-Ogrodnicza na Franowie skupia wielu sprzedawców kwiatów i materiałów florystycznych. Kwiaciarnia może porównywać ceny i jakość u różnych dostawców. Ich wpływ rośnie przy zamówieniach na konkretny gatunek lub kolor z krótkim terminem realizacji, szczególnie w okresach zwiększonego popytu. Dostawca urządzeń może mieć duży wpływ na ciągłość odbioru, jeśli oba kwiatomaty będą zależeć od tego samego serwisu lub oprogramowania. [WGRO – rynek hurtowy we Franowie](https://wgro.com.pl/o-nas/)
 
 ### 4. Siła przetargowa nabywców – wysoka
 
@@ -80,14 +80,14 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
       <strong>S · Mocne strony</strong>
       <ul>
         <li><strong>S1</strong> · Personalizacja bukietów i konsultacje wideo</li>
-        <li><strong>S2</strong> · Całodobowy odbiór zamówień</li>
+        <li><strong>S2</strong> · Całodobowy odbiór z dwóch mniejszych kwiatomatów</li>
         <li><strong>S3</strong> · Lokal na osiedlu Piastowskim</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>W · Słabe strony</strong>
       <ul>
-        <li><strong>W1</strong> · Koszty lokalu, aplikacji i kwiatomatu</li>
+        <li><strong>W1</strong> · Koszty lokalu, aplikacji i obu kwiatomatów</li>
         <li><strong>W2</strong> · Ograniczony czas florystki</li>
         <li><strong>W3</strong> · Trudność zarządzania zapasem kwiatów</li>
       </ul>
@@ -107,7 +107,7 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
       <ul>
         <li><strong>T1</strong> · Konkurencja i łatwość zmiany sprzedawcy</li>
         <li><strong>T2</strong> · Sezonowe wahania cen i dostępności kwiatów</li>
-        <li><strong>T3</strong> · Ryzyko opóźnień w serwisie kwiatomatu</li>
+        <li><strong>T3</strong> · Opóźnienia serwisu i przerwy w usługach dostawców</li>
       </ul>
     </td>
   </tr>
@@ -120,12 +120,12 @@ Analiza dotyczy planowanej kwiaciarni na osiedlu Piastowskim i sprzedaży bukiet
 #### Mocne strony
 
 - **S1 · Personalizacja bukietu w lokalu i online.** Klient może skorzystać z pomocy florystki w lokalu albo samodzielnie skomponować bukiet w aplikacji. W godzinach pracy kwiaciarni może też obejrzeć dostępne kwiaty podczas konsultacji wideo i poprosić florystkę o poradę.
-- **S2 · Całodobowy odbiór zamówień przy kwiaciarni.** Klient może odebrać przygotowany dla niego bukiet ze skrytki również po zamknięciu lokalu.
+- **S2 · Całodobowy odbiór z dwóch mniejszych kwiatomatów.** Klient może odebrać przygotowany dla niego bukiet ze skrytki również po zamknięciu lokalu. Przy awarii jednego urządzenia drugie może przejąć zamówienia, jeśli ma wolne skrytki odpowiedniej wielkości.
 - **S3 · Lokal na osiedlu Piastowskim.** Bliskość punktu sprzedaży i odbioru ułatwia zakupy mieszkańcom osiedla oraz pozwala obejrzeć ofertę na miejscu.
 
 #### Słabe strony
 
-- **W1 · Nakłady na uruchomienie i koszty utrzymania.** Lokal, aplikacja i kwiatomat wymagają finansowania jeszcze przed sprawdzeniem, z których sposobów zakupu i odbioru klienci będą korzystać. Założenia sprzedaży na pierwszy rok, czyli około 909 klientów z Rataj, dwa zamówienia rocznie od każdego i średni koszyk 110 zł, wymagają potwierdzenia po otwarciu.
+- **W1 · Nakłady na uruchomienie i koszty utrzymania.** Lokal, aplikacja oraz zakup, montaż i utrzymanie obu kwiatomatów wymagają finansowania. Łączny koszt urządzeń trzeba ustalić na podstawie ofert dostawców. Założenia sprzedaży na pierwszy rok, czyli około 909 klientów z Rataj, dwa zamówienia rocznie od każdego i średni koszyk 110 zł, wymagają potwierdzenia po otwarciu.
 - **W2 · Ograniczony czas florystki.** Florystka dzieli czas między klientów w lokalu, konsultacje wideo i przygotowanie bukietów. Wzrost liczby zamówień może wydłużyć czas realizacji.
 - **W3 · Trudność zarządzania zapasem kwiatów.** Kwiaciarnia musi aktualizować dostępność kwiatów w aplikacji po sprzedaży w lokalu i wycofaniu kwiatów, które utraciły świeżość. Nadmierny zapas zwiększa straty.
 
@@ -139,7 +139,7 @@ Analiza dotyczy planowanej kwiaciarni na osiedlu Piastowskim i sprzedaży bukiet
 
 - **T1 · Konkurencja i łatwość zmiany sprzedawcy.** Mieszkańcy Rataj mogą zamawiać kwiaty z dostawą lub kupić gotowy bukiet w kwiatomacie na osiedlu Jagiellońskim. W okresach świątecznych kwiaty oferują również dyskonty. Klienci mogą szybko porównać ceny i terminy albo wybrać inny upominek. Gotowe rozwiązania do odbioru zamówień na kod ułatwiają innym kwiaciarniom uruchomienie podobnej usługi.
 - **T2 · Sezonowe wahania cen i dostępności kwiatów.** W okresach zwiększonego popytu trudniej zapewnić konkretną odmianę lub kolor w cenie przyjętej przy zamówieniu.
-- **T3 · Ryzyko opóźnień w serwisie kwiatomatu.** Jeśli naprawa skrytki lub systemu kodów zależy od zewnętrznego dostawcy, czas jego reakcji może decydować o tym, czy klient odbierze bukiet na czas.
+- **T3 · Opóźnienia serwisu i przerwy w usługach dostawców.** Po awarii czas reakcji zewnętrznego serwisu może wpłynąć na termin odbioru bukietów już umieszczonych w skrytkach niesprawnego urządzenia. Przerwa w dostawie prądu lub łączności albo awaria wspólnego systemu kodów może zatrzymać oba kwiatomaty.
 
 ### Macierz synergii potencjał–otoczenie
 
@@ -185,8 +185,8 @@ Oceniono 36 par czynników o równych wagach. Każda ocena określa, czy dany cz
       <td align="center">0</td>
       <td align="center">+1</td>
       <td align="center">0</td>
-      <td align="center"><strong>−2</strong></td>
-      <td align="center"><strong>+2</strong></td>
+      <td align="center">−1</td>
+      <td align="center"><strong>+3</strong></td>
     </tr>
     <tr>
       <th scope="row">S3</th>
@@ -240,8 +240,8 @@ Oceniono 36 par czynników o równych wagach. Każda ocena określa, czy dany cz
       <td align="center"><strong>+1</strong></td>
       <td align="center"><strong>0</strong></td>
       <td align="center"><strong>−3</strong></td>
-      <td align="center"><strong>−1</strong></td>
       <td align="center"><strong>0</strong></td>
+      <td align="center"><strong>+1</strong></td>
     </tr>
   </tfoot>
 </table>
@@ -249,33 +249,33 @@ Oceniono 36 par czynników o równych wagach. Każda ocena określa, czy dany cz
 ### Interpretacja i wnioski strategiczne
 
 - **Personalizacja wspiera zakupy okazjonalne i odróżnia ofertę od konkurencji (S1–O1 i S1–T1, po +2).** Florystka może pomóc dobrać kwiaty do okazji, także gdy klient zamawia z domu. Personalizacja i konsultacje wideo mają najwyższą sumę wśród mocnych stron (+7).
-- **Kwiatomat zaspokaja potrzebę odbioru po godzinach (S2–O2, +2).** Klienci mogą odebrać przygotowane bukiety bez wydłużania godzin pracy florystki. Skuteczność tego rozwiązania zależy od dostępności serwisu (S2–T3, −2). Gdy skrytka ulegnie awarii, w godzinach pracy lokal może służyć jako zapasowy punkt odbioru (S3–T3, +1).
+- **Dwa kwiatomaty umożliwiają odbiór po godzinach (S2–O2, +2).** Klienci mogą odebrać przygotowane bukiety bez wydłużania godzin pracy florystki. Drugie urządzenie ogranicza skutki pojedynczej awarii, dlatego wpływ zagrożenia oceniono na −1 (S2–T3). Ocena zakłada niezależne sterowanie urządzeniami i możliwość przekierowania zamówień do wolnych skrytek. W godzinach pracy nieumieszczone jeszcze w skrytkach bukiety można też wydać w lokalu (S3–T3, +1).
 - **Czas florystki ogranicza wykorzystanie popytu i odpowiedź na konkurencję (W2–O1 i W2–T1, po −2).** Przed świętami konsultacje, obsługa klientów i przygotowanie bukietów mogą się nałożyć. Dłuższy termin ułatwia klientom wybór innego sprzedawcy. Ograniczony czas obsługi ma najniższą sumę wśród słabych stron (−6).
 - **Sezonowe braki nasilają trudności z zarządzaniem zapasem (W3–T2, −2).** Niedostępność konkretnej odmiany wymaga aktualizacji aplikacji i uzgodnienia zamiennika, a zwiększanie zapasu na wszelki wypadek podnosi ryzyko strat. Wahania cen i dostępności kwiatów mają najniższą sumę wśród zagrożeń (−3).
 
-**Wniosek dla kwiaciarni.** Bilans wynosi 0 pkt, ponieważ w przyjętej ocenie korzyści i ograniczenia się równoważą. Najsilniejsze dodatnie powiązania wspierają koncentrację na bukietach okolicznościowych dla mieszkańców Rataj, z personalizacją i elastycznym odbiorem. Żeby wykorzystać te atuty, kwiaciarnia powinna uzależniać deklarowany termin odbioru od czasu przygotowania bukietów i dostępności skrytek, aktualizować ofertę według stanu kwiatów oraz zapewnić zapasowego dostawcę i ustalić sposób wydawania zamówień w razie awarii kwiatomatu.
+**Wniosek dla kwiaciarni.** Bilans wynosi **+1 pkt**. Najsilniejsze dodatnie powiązania wspierają koncentrację na bukietach okolicznościowych dla mieszkańców Rataj, z personalizacją i elastycznym odbiorem. Dwa mniejsze kwiatomaty pozwolą utrzymać część odbiorów przy awarii jednego urządzenia. Kwiaciarnia powinna ustalać terminy według czasu przygotowania bukietów i pojemności sprawnych kwiatomatów oraz przetestować przekierowanie zamówień przed otwarciem. Aktualna oferta w aplikacji i zapasowy dostawca pomogą ograniczyć skutki sezonowych braków kwiatów.
 
 ## 4.3. Dobór strategii konkurencyjnej
 
 **Wybrana strategia to koncentracja na zróżnicowaniu.** Kwiaciarnia skieruje ofertę do mieszkańców Rataj, zaczynając od osiedla Piastowskiego i jego najbliższej okolicy. Główną grupą klientów będą osoby kupujące bukiety okolicznościowe, którym zależy na dopasowaniu kompozycji i odbiorze o dogodnej porze. [Michael Porter o strategiach konkurencyjnych](https://www.hbs.edu/ris/Publication%20Files/Value-Investor-Insight-12-13-Michael-Porter-interview_c606ce75-e56f-4ca1-9a20-13a1e8f29c20.pdf#page=2)
 
-Analiza pięciu sił Portera pokazała silną konkurencję i łatwość zmiany sprzedawcy. Macierz z pkt 4.2 wskazuje, że personalizacja może wyróżnić bukiety okolicznościowe, a kwiatomat odpowiada na potrzebę odbioru po godzinach. Kwiaciarnia połączy komponowanie bukietów w lokalu lub w aplikacji, konsultacje wideo z florystką w godzinach pracy i całodobowy odbiór przy lokalu. Ponieważ konkurenci mogą wdrożyć podobne skrytki, o wartości oferty dla klienta zadecydują także aktualna dostępność kwiatów i dotrzymywanie terminów odbioru.
+Analiza pięciu sił Portera pokazała silną konkurencję i łatwość zmiany sprzedawcy. Macierz z pkt 4.2 wskazuje, że personalizacja może wyróżnić bukiety okolicznościowe, a całodobowy odbiór odpowiada na potrzebę odbioru po godzinach. Kwiaciarnia połączy komponowanie bukietów w lokalu lub w aplikacji, konsultacje wideo z florystką w godzinach pracy i odbiór z dwóch mniejszych kwiatomatów przy lokalu. Wybór dwóch urządzeń ma ograniczyć opóźnienia przy awarii jednego z nich. Ponieważ konkurenci mogą wdrożyć podobne skrytki, o wartości oferty dla klienta zadecydują także aktualna dostępność kwiatów i dotrzymywanie terminów odbioru.
 
 ### Realizacja strategii
 
 - **Zamówienie i cena.** Przed złożeniem zamówienia aplikacja pokaże dostępne kwiaty, pełną cenę kompozycji i najbliższy termin odbioru. W scenariuszu sprzedaży przyjęto średnią wartość zamówienia 110 zł brutto. Cena konkretnego bukietu będzie zależeć od wybranych kwiatów i wielkości kompozycji.
-- **Terminowy odbiór.** Kwiaciarnia będzie ustalać, od której godziny zamówienie będzie gotowe do odbioru, uwzględniając czas potrzebny na przygotowanie bukietu i dostępność skrytek.
+- **Terminowy odbiór.** Kwiaciarnia będzie ustalać godzinę gotowości zamówienia na podstawie czasu potrzebnego na przygotowanie bukietu oraz dostępności skrytek w sprawnych kwiatomatach. W razie zmiany urządzenia klient otrzyma jego oznaczenie i aktualne dane odbioru.
 - **Dotarcie do mieszkańców Rataj.** Profil w Mapach Google, lokalne media społecznościowe i oznakowanie przy lokalu pokażą, jak zamówić bukiet na wybraną okazję i odebrać go po zamknięciu kwiaciarni.
 
 ### Ocena skuteczności
 
-W pierwszym roku postęp będzie oceniany względem celu **1 818 zamówień od mieszkańców Rataj i 199 980 zł sprzedaży brutto**. Kwiaciarnia będzie też mierzyć odsetek konsultacji wideo zakończonych zakupem, udział zamówień odbieranych po zamknięciu lokalu oraz odsetek bukietów gotowych w obiecanym terminie. Wyniki sprzedaży i koszty obsługi zamówień posłużą do oceny, czy oferta zapewnia marżę wystarczającą do pokrycia kosztów utrzymania aplikacji i kwiatomatu.
+W pierwszym roku postęp będzie oceniany względem celu **1 818 zamówień od mieszkańców Rataj i 199 980 zł sprzedaży brutto**. Kwiaciarnia będzie też mierzyć odsetek konsultacji wideo zakończonych zakupem, udział zamówień odbieranych po zamknięciu lokalu oraz odsetek bukietów gotowych w obiecanym terminie. Przy każdej awarii odnotuje liczbę zamówień przekierowanych do drugiego kwiatomatu i liczbę opóźnionych odbiorów. Wyniki sprzedaży i koszty obsługi zamówień posłużą do oceny, czy oferta zapewnia marżę wystarczającą do pokrycia kosztów utrzymania aplikacji i obu urządzeń.
 
 # 5. Plan techniczny
 
 ## 5.1. Poziom zapasów wyrobów gotowych, materiałów i surowców
 
-- **Wyroby gotowe** – bukiety dostępne od ręki w lokalu oraz zamówienia przygotowane przez kwiaciarnię, oczekujące na odbiór w lokalu lub ze skrytki przy kwiaciarni.
+- **Wyroby gotowe** – bukiety dostępne od ręki w lokalu oraz zamówienia przygotowane przez kwiaciarnię, oczekujące na odbiór w lokalu lub w przydzielonych skrytkach dwóch kwiatomatów przy kwiaciarni.
 - Źródła zaopatrzenia
 - Dostawcy materiałów i komponentów
 - Dostępność i ceny materiałów
@@ -284,19 +284,21 @@ W pierwszym roku postęp będzie oceniany względem celu **1 818 zamówień od m
 
 - Zdolności produkcyjne i stopień ich wykorzystania
   - Czas pracy florystki przeznaczony na przygotowanie bukietów, obsługę w lokalu i konsultacje wideo.
+  - Pojemność odbioru zależy od liczby i rozmiarów skrytek oraz czasu, przez jaki bukiety czekają na odbiór. Oba kwiatomaty będą używane na co dzień. Po wyborze modeli należy określić pojemność każdego urządzenia i ustalić, ile skrytek zostawiać wolnych na wypadek awarii drugiego.
+  - W razie awarii kwiaciarnia wstrzyma przydzielanie skrytek w niesprawnym urządzeniu. Kolejne zamówienia skieruje do działającego kwiatomatu w granicach jego pojemności. Bukiet już umieszczony w niesprawnym urządzeniu przełoży po odzyskaniu dostępu do skrytki i przekaże klientowi nowy kod. Gdy skrytka pozostanie zablokowana, kwiaciarnia poinformuje klienta i uzgodni nowy termin odbioru.
 - Plan produkcji w poszczególnych latach
 
 ## 5.3. Koszty produkcji
 
 - Koszty materiałów
-- Koszty energii
+- Koszty energii lokalu i obu kwiatomatów
 - Koszty robocizny
-- Koszty utrzymania ruchu
-- Amortyzacja
+- Koszty utrzymania ruchu, w tym przeglądy, serwis i naprawy obu kwiatomatów
+- Amortyzacja obu kwiatomatów. Nakłady na zakup i montaż ustalić na podstawie ofert dostawców.
 
 # 5. Plan marketingowy 
 -Analiza rynka (czesc tu jest z analicy strategicznej wco wczesniej bylo)
 -ceny wyrobow ()
-- kanaly dsytrybucji 
+- Kanały dystrybucji – sprzedaż w lokalu i zamówienia przez aplikację z odbiorem w lokalu lub ze skrytki w jednym z dwóch kwiatomatów.
 - promocja i reklama
 - kosrzy dzialan marketingowych 
