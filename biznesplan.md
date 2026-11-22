@@ -72,24 +72,24 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
 
 **Wniosek dla kwiaciarni.** Największą presję wywierają działający sprzedawcy i łatwość zmiany sprzedawcy przez klientów. Konsultacja wideo pozwoli klientom kupującym online obejrzeć konkretne kwiaty i uzyskać poradę przed zamówieniem. Po otwarciu warto mierzyć liczbę zamówień z konfiguratora, odsetek konsultacji zakończonych zakupem i udział zamówień odbieranych ze skrytki.
 
-## 4.2. Analiza SWOT
+## 4.2. Analiza SWOT metodą refleksji strategicznej
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <strong>S · Mocne strony</strong>
       <ul>
-        <li>Personalizacja bukietów i konsultacje wideo</li>
-        <li>Całodobowy odbiór zamówień</li>
-        <li>Lokal na osiedlu Piastowskim</li>
+        <li><strong>S1</strong> · Personalizacja bukietów i konsultacje wideo</li>
+        <li><strong>S2</strong> · Całodobowy odbiór zamówień</li>
+        <li><strong>S3</strong> · Lokal na osiedlu Piastowskim</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>W · Słabe strony</strong>
       <ul>
-        <li>Koszty lokalu, aplikacji i kwiatomatu</li>
-        <li>Ograniczony czas florystki</li>
-        <li>Trudność zarządzania zapasem kwiatów</li>
+        <li><strong>W1</strong> · Koszty lokalu, aplikacji i kwiatomatu</li>
+        <li><strong>W2</strong> · Ograniczony czas florystki</li>
+        <li><strong>W3</strong> · Trudność zarządzania zapasem kwiatów</li>
       </ul>
     </td>
   </tr>
@@ -97,17 +97,17 @@ Bukiet jako prezent można zastąpić rośliną doniczkową, słodyczami albo ka
     <td width="50%" valign="top">
       <strong>O · Szanse</strong>
       <ul>
-        <li>Okazje do zakupu kwiatów przez cały rok</li>
-        <li>Potrzeba odbioru po godzinach</li>
-        <li>Wielu dostawców na Franowie</li>
+        <li><strong>O1</strong> · Okazje do zakupu kwiatów przez cały rok</li>
+        <li><strong>O2</strong> · Potrzeba odbioru po godzinach</li>
+        <li><strong>O3</strong> · Wielu dostawców na Franowie</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>T · Zagrożenia</strong>
       <ul>
-        <li>Konkurencja lokalna i internetowa</li>
-        <li>Sezonowe wahania cen i dostępności kwiatów</li>
-        <li>Ryzyko opóźnień w serwisie kwiatomatu</li>
+        <li><strong>T1</strong> · Konkurencja i łatwość zmiany sprzedawcy</li>
+        <li><strong>T2</strong> · Sezonowe wahania cen i dostępności kwiatów</li>
+        <li><strong>T3</strong> · Ryzyko opóźnień w serwisie kwiatomatu</li>
       </ul>
     </td>
   </tr>
@@ -119,37 +119,147 @@ Analiza dotyczy planowanej kwiaciarni na osiedlu Piastowskim i sprzedaży bukiet
 
 #### Mocne strony
 
-- **Personalizacja bukietu w lokalu i online.** Klient może skorzystać z pomocy florystki w lokalu albo samodzielnie skomponować bukiet w aplikacji. W godzinach pracy kwiaciarni może też obejrzeć dostępne kwiaty podczas konsultacji wideo i poprosić florystkę o poradę.
-- **Całodobowy odbiór zamówień przy kwiaciarni.** Klient może odebrać przygotowany dla niego bukiet ze skrytki również po zamknięciu lokalu.
-- **Lokal na osiedlu Piastowskim.** Bliskość punktu sprzedaży i odbioru ułatwia zakupy mieszkańcom osiedla oraz pozwala obejrzeć ofertę na miejscu.
+- **S1 · Personalizacja bukietu w lokalu i online.** Klient może skorzystać z pomocy florystki w lokalu albo samodzielnie skomponować bukiet w aplikacji. W godzinach pracy kwiaciarni może też obejrzeć dostępne kwiaty podczas konsultacji wideo i poprosić florystkę o poradę.
+- **S2 · Całodobowy odbiór zamówień przy kwiaciarni.** Klient może odebrać przygotowany dla niego bukiet ze skrytki również po zamknięciu lokalu.
+- **S3 · Lokal na osiedlu Piastowskim.** Bliskość punktu sprzedaży i odbioru ułatwia zakupy mieszkańcom osiedla oraz pozwala obejrzeć ofertę na miejscu.
 
 #### Słabe strony
 
-- **Nakłady na uruchomienie i koszty utrzymania.** Lokal, aplikacja i kwiatomat wymagają finansowania jeszcze przed sprawdzeniem, z których sposobów zakupu i odbioru klienci będą korzystać.
-- **Wspólna obsługa lokalu i zamówień online.** Florystka dzieli czas między klientów w lokalu, konsultacje wideo i przygotowanie bukietów. Wzrost liczby zamówień może wydłużyć czas realizacji.
-- **Trudność w utrzymaniu aktualnej oferty.** Kwiaciarnia musi aktualizować dostępność kwiatów w aplikacji po sprzedaży w lokalu i wycofaniu kwiatów, które utraciły świeżość. Nadmierny zapas zwiększa straty.
-- **Niezweryfikowane założenia sprzedaży.** Cel pierwszego roku zakłada około 909 klientów z Rataj, dwa zamówienia rocznie od każdego i średni koszyk 110 zł. Są to założenia wymagające sprawdzenia po otwarciu.
+- **W1 · Nakłady na uruchomienie i koszty utrzymania.** Lokal, aplikacja i kwiatomat wymagają finansowania jeszcze przed sprawdzeniem, z których sposobów zakupu i odbioru klienci będą korzystać. Założenia sprzedaży na pierwszy rok, czyli około 909 klientów z Rataj, dwa zamówienia rocznie od każdego i średni koszyk 110 zł, wymagają potwierdzenia po otwarciu.
+- **W2 · Ograniczony czas florystki.** Florystka dzieli czas między klientów w lokalu, konsultacje wideo i przygotowanie bukietów. Wzrost liczby zamówień może wydłużyć czas realizacji.
+- **W3 · Trudność zarządzania zapasem kwiatów.** Kwiaciarnia musi aktualizować dostępność kwiatów w aplikacji po sprzedaży w lokalu i wycofaniu kwiatów, które utraciły świeżość. Nadmierny zapas zwiększa straty.
 
 #### Szanse
 
-- **Zakupy okazjonalne przez cały rok.** Urodziny, rocznice i święta dają okazje do ponownych zamówień i składania ich z wyprzedzeniem.
-- **Zakupy poza godzinami pracy kwiaciarni.** Klienci, którzy chcą odebrać bukiet przed pracą lub wieczorem, mogą szukać całodobowego punktu odbioru.
-- **Dostęp do wielu dostawców na Franowie.** Rynek hurtowy pozwala porównywać ceny i jakość oraz korzystać z zapasowego źródła dostaw w okresach większego popytu.
+- **O1 · Zakupy okazjonalne przez cały rok.** Urodziny, rocznice i święta dają okazje do ponownych zamówień i składania ich z wyprzedzeniem.
+- **O2 · Potrzeba odbioru poza godzinami pracy kwiaciarni.** Klienci, którzy chcą odebrać bukiet przed pracą lub wieczorem, mogą szukać całodobowego punktu odbioru.
+- **O3 · Dostęp do wielu dostawców na Franowie.** Rynek hurtowy pozwala porównywać ceny i jakość oraz korzystać z zapasowego źródła dostaw w okresach większego popytu.
 
 #### Zagrożenia
 
-- **Konkurencja lokalna i internetowa.** Mieszkańcy Rataj mogą zamawiać kwiaty z dostawą lub kupić gotowy bukiet w kwiatomacie na osiedlu Jagiellońskim. W okresach świątecznych kwiaty oferują również dyskonty. Gotowe rozwiązania do odbioru zamówień na kod ułatwiają innym kwiaciarniom uruchomienie podobnej usługi.
-- **Łatwość zmiany sprzedawcy.** Klienci mogą szybko porównać ceny i terminy. Mogą też wybrać inny upominek, zwłaszcza przy zakupie na ostatnią chwilę.
-- **Ryzyko wzrostu cen i ograniczonej dostępności kwiatów.** W okresach zwiększonego popytu trudniej zapewnić konkretną odmianę lub kolor w cenie przyjętej przy zamówieniu.
-- **Ryzyko opóźnień w serwisie kwiatomatu.** Jeśli naprawa skrytki lub systemu kodów zależy od zewnętrznego dostawcy, czas jego reakcji może decydować o tym, czy klient odbierze bukiet na czas.
+- **T1 · Konkurencja i łatwość zmiany sprzedawcy.** Mieszkańcy Rataj mogą zamawiać kwiaty z dostawą lub kupić gotowy bukiet w kwiatomacie na osiedlu Jagiellońskim. W okresach świątecznych kwiaty oferują również dyskonty. Klienci mogą szybko porównać ceny i terminy albo wybrać inny upominek. Gotowe rozwiązania do odbioru zamówień na kod ułatwiają innym kwiaciarniom uruchomienie podobnej usługi.
+- **T2 · Sezonowe wahania cen i dostępności kwiatów.** W okresach zwiększonego popytu trudniej zapewnić konkretną odmianę lub kolor w cenie przyjętej przy zamówieniu.
+- **T3 · Ryzyko opóźnień w serwisie kwiatomatu.** Jeśli naprawa skrytki lub systemu kodów zależy od zewnętrznego dostawcy, czas jego reakcji może decydować o tym, czy klient odbierze bukiet na czas.
 
-**Wniosek dla kwiaciarni.** Połączenie personalizacji bukietu z całodobowym odbiorem przy lokalu daje kwiaciarni możliwość wyróżnienia się. W pierwszych miesiącach warto sprawdzić, ilu klientów odbiera bukiety po zamknięciu lokalu i jak często konsultacje wideo prowadzą do zakupu. Zestawienie tych wyników z czasem obsługi i kosztami utrzymania aplikacji oraz kwiatomatu pomoże ocenić, czy sprzedaż uzasadnia nakłady na obie usługi.
+### Macierz synergii potencjał–otoczenie
+
+Oceniono 36 par czynników o równych wagach. Każda ocena określa, czy dany czynnik wewnętrzny pomaga wykorzystać szansę lub ograniczyć zagrożenie, czy utrudnia wykorzystanie szansy lub zwiększa podatność na zagrożenie. **+2** to powiązanie silnie korzystne, **+1** korzystne, **0** neutralne lub bez bezpośredniego związku, **−1** niekorzystne, a **−2** silnie niekorzystne. Oceny opierają się na założeniach biznesplanu i warunkach opisanych w pkt 4.1. [Wzór macierzy Martyniaka, rys. 1 w artykule Marka Rawskiego](https://przegladorganizacji.pl/plik/5e7bcc631d5f0/Przeglad%20Organizacji%20-%202002.03.pdf#page=12)
+
+<table>
+  <colgroup span="2"></colgroup>
+  <colgroup span="3"></colgroup>
+  <colgroup span="3"></colgroup>
+  <colgroup span="1"></colgroup>
+  <thead>
+    <tr>
+      <th rowspan="2" colspan="2">Otoczenie →<br />Potencjał ↓</th>
+      <th colspan="3" scope="colgroup">Szanse</th>
+      <th colspan="3" scope="colgroup">Zagrożenia</th>
+      <th rowspan="2" scope="col">Suma</th>
+    </tr>
+    <tr>
+      <th scope="col">O1</th>
+      <th scope="col">O2</th>
+      <th scope="col">O3</th>
+      <th scope="col">T1</th>
+      <th scope="col">T2</th>
+      <th scope="col">T3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="3" scope="rowgroup">Mocne strony</th>
+      <th scope="row">S1</th>
+      <td align="center"><strong>+2</strong></td>
+      <td align="center">+1</td>
+      <td align="center">+1</td>
+      <td align="center"><strong>+2</strong></td>
+      <td align="center">+1</td>
+      <td align="center">0</td>
+      <td align="center"><strong>+7</strong></td>
+    </tr>
+    <tr>
+      <th scope="row">S2</th>
+      <td align="center">+1</td>
+      <td align="center"><strong>+2</strong></td>
+      <td align="center">0</td>
+      <td align="center">+1</td>
+      <td align="center">0</td>
+      <td align="center"><strong>−2</strong></td>
+      <td align="center"><strong>+2</strong></td>
+    </tr>
+    <tr>
+      <th scope="row">S3</th>
+      <td align="center">+1</td>
+      <td align="center">+1</td>
+      <td align="center">0</td>
+      <td align="center">+1</td>
+      <td align="center">0</td>
+      <td align="center">+1</td>
+      <td align="center"><strong>+4</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan="3" scope="rowgroup">Słabe strony</th>
+      <th scope="row">W1</th>
+      <td align="center">0</td>
+      <td align="center">−1</td>
+      <td align="center">0</td>
+      <td align="center">−1</td>
+      <td align="center">−1</td>
+      <td align="center">0</td>
+      <td align="center"><strong>−3</strong></td>
+    </tr>
+    <tr>
+      <th scope="row">W2</th>
+      <td align="center"><strong>−2</strong></td>
+      <td align="center">−1</td>
+      <td align="center">0</td>
+      <td align="center"><strong>−2</strong></td>
+      <td align="center">−1</td>
+      <td align="center">0</td>
+      <td align="center"><strong>−6</strong></td>
+    </tr>
+    <tr>
+      <th scope="row">W3</th>
+      <td align="center">−1</td>
+      <td align="center">0</td>
+      <td align="center">0</td>
+      <td align="center">−1</td>
+      <td align="center"><strong>−2</strong></td>
+      <td align="center">0</td>
+      <td align="center"><strong>−4</strong></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th colspan="2" scope="row">Suma</th>
+      <td align="center"><strong>+1</strong></td>
+      <td align="center"><strong>+2</strong></td>
+      <td align="center"><strong>+1</strong></td>
+      <td align="center"><strong>0</strong></td>
+      <td align="center"><strong>−3</strong></td>
+      <td align="center"><strong>−1</strong></td>
+      <td align="center"><strong>0</strong></td>
+    </tr>
+  </tfoot>
+</table>
+
+### Interpretacja i wnioski strategiczne
+
+- **Personalizacja wspiera zakupy okazjonalne i odróżnia ofertę od konkurencji (S1–O1 i S1–T1, po +2).** Florystka może pomóc dobrać kwiaty do okazji, także gdy klient zamawia z domu. Personalizacja i konsultacje wideo mają najwyższą sumę wśród mocnych stron (+7).
+- **Kwiatomat zaspokaja potrzebę odbioru po godzinach (S2–O2, +2).** Klienci mogą odebrać przygotowane bukiety bez wydłużania godzin pracy florystki. Skuteczność tego rozwiązania zależy od dostępności serwisu (S2–T3, −2). Gdy skrytka ulegnie awarii, w godzinach pracy lokal może służyć jako zapasowy punkt odbioru (S3–T3, +1).
+- **Czas florystki ogranicza wykorzystanie popytu i odpowiedź na konkurencję (W2–O1 i W2–T1, po −2).** Przed świętami konsultacje, obsługa klientów i przygotowanie bukietów mogą się nałożyć. Dłuższy termin ułatwia klientom wybór innego sprzedawcy. Ograniczony czas obsługi ma najniższą sumę wśród słabych stron (−6).
+- **Sezonowe braki nasilają trudności z zarządzaniem zapasem (W3–T2, −2).** Niedostępność konkretnej odmiany wymaga aktualizacji aplikacji i uzgodnienia zamiennika, a zwiększanie zapasu na wszelki wypadek podnosi ryzyko strat. Wahania cen i dostępności kwiatów mają najniższą sumę wśród zagrożeń (−3).
+
+**Wniosek dla kwiaciarni.** Bilans wynosi 0 pkt, ponieważ w przyjętej ocenie korzyści i ograniczenia się równoważą. Najsilniejsze dodatnie powiązania wspierają koncentrację na bukietach okolicznościowych dla mieszkańców Rataj, z personalizacją i elastycznym odbiorem. Żeby wykorzystać te atuty, kwiaciarnia powinna uzależniać deklarowany termin odbioru od czasu przygotowania bukietów i dostępności skrytek, aktualizować ofertę według stanu kwiatów oraz zapewnić zapasowego dostawcę i ustalić sposób wydawania zamówień w razie awarii kwiatomatu.
 
 ## 4.3. Dobór strategii konkurencyjnej
 
 **Wybrana strategia to koncentracja na zróżnicowaniu.** Kwiaciarnia skieruje ofertę do mieszkańców Rataj, zaczynając od osiedla Piastowskiego i jego najbliższej okolicy. Główną grupą klientów będą osoby kupujące bukiety okolicznościowe, którym zależy na dopasowaniu kompozycji i odbiorze o dogodnej porze. [Michael Porter o strategiach konkurencyjnych](https://www.hbs.edu/ris/Publication%20Files/Value-Investor-Insight-12-13-Michael-Porter-interview_c606ce75-e56f-4ca1-9a20-13a1e8f29c20.pdf#page=2)
 
-Analiza pięciu sił Portera pokazała silną konkurencję i łatwość zmiany sprzedawcy. Kwiaciarnia będzie się wyróżniać możliwością skomponowania bukietu w lokalu lub w aplikacji, uzyskania porady florystki przez wideo w godzinach pracy i odebrania zamówienia przez całą dobę z kwiatomatu przy lokalu. Ponieważ konkurenci mogą wdrożyć podobne skrytki, o wartości oferty dla klienta zadecydują także aktualna dostępność kwiatów i dotrzymywanie terminów odbioru.
+Analiza pięciu sił Portera pokazała silną konkurencję i łatwość zmiany sprzedawcy. Macierz z pkt 4.2 wskazuje, że personalizacja może wyróżnić bukiety okolicznościowe, a kwiatomat odpowiada na potrzebę odbioru po godzinach. Kwiaciarnia połączy komponowanie bukietów w lokalu lub w aplikacji, konsultacje wideo z florystką w godzinach pracy i całodobowy odbiór przy lokalu. Ponieważ konkurenci mogą wdrożyć podobne skrytki, o wartości oferty dla klienta zadecydują także aktualna dostępność kwiatów i dotrzymywanie terminów odbioru.
 
 ### Realizacja strategii
 
